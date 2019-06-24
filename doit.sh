@@ -1,0 +1,1 @@
+mkpins pinout.csv zebra
