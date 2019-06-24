@@ -50,7 +50,7 @@ example. `pinout.csv`)
 
 Run the program to generate the pinout code and header files:
 ```bash
-mkpins pinout.csv mombo
+mkpins pinout.csv zebra
 ```
 where the first argument is the CSV filename and the second argument is
 the project name.  The project name will be used to generate all the
